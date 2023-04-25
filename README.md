@@ -2,8 +2,8 @@
 
 Yo soy Juan de Dios 🇲🇽 | Je suis Juan de Dios 🇫🇷 | I´m Juan de Dios 🇺🇸
 
-🔭 I’m currently working on Smart Bamboo
-🌱 I’m currently learning swift - iOS 📱
+- 🔭 I’m currently working on Smart Bamboo 🐼
+- 🌱 I’m currently learning swift - iOS 📱
 
 
 <!--
